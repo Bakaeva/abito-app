@@ -1,0 +1,50 @@
+export const cardArray = [
+    {
+        id: 0,
+        title: 'Первый товар',
+        price: '170 ₽',
+        location: 'Казань, р-н Вахитовский',
+        date: '10 июля 11:39',
+        img: '/image/card-img.png',
+    },
+    {
+        id: 1,
+        title: 'Второй товар',
+        price: '171 ₽',
+        location: 'Казань, р-н Вахитовский',
+        date: '10 июля 11:39',
+        img: '/image/card-img.png',
+    },
+    {
+        id: 2,
+        title: 'Третий товар',
+        price: '172 ₽',
+        location: 'Казань, р-н Вахитовский',
+        date: '10 июля 11:39',
+        img: '/image/card-img.png',
+    },
+    {
+        id: 3,
+        title: 'Четвертый товар',
+        price: '173 ₽',
+        location: 'Казань, р-н Вахитовский',
+        date: '10 июля 11:39',
+        img: '/image/card-img.png',
+    },
+    {
+        id: 4,
+        title: 'Пятый товар',
+        price: '174 ₽',
+        location: 'Казань, р-н Вахитовский',
+        date: '10 июля 11:39',
+        img: '/image/card-img.png',
+    },
+    {
+        id: 5,
+        title: 'Шестой товар',
+        price: '175 ₽',
+        location: 'Казань, р-н Вахитовский',
+        date: '10 июля 11:39',
+        img: '/image/card-img.png',
+    }
+];
