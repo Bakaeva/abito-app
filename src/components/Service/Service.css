@@ -1,0 +1,16 @@
+.service {
+    color: rgba(10, 20, 58, 1);
+}
+
+.service--title {
+    font-size: 14px;
+    line-height: 16px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+}
+
+.service--info {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+}
