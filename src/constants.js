@@ -1,11 +1,19 @@
 export const cardArray = [
     {
         id: 0,
-        title: 'Первый товар',
-        price: '170 ₽',
+        title: 'Электросамокат kugoo Gx',
+        price: '75 000 ₽',
         location: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/image/card-img.png'
+        img: '/image/product-img.jpg',
+        description: `Продаю не спеша самокат в хорошем состоянии.
+                    Торг возможен.
+                    За период эксплуатации не выявлено ни одной проблемы.
+                    Из минусов — нужно прокачать задний тормоз.
+                    Установлен отсекатель сзади.
+                    Покрышки CST внедорожные.
+                    Все на подшипниках, болты протянуты.
+                    Пробег 881км , это немного для такого зверя.`
     },
     {
         id: 1,
@@ -13,7 +21,8 @@ export const cardArray = [
         price: '171 ₽',
         location: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/image/card-img.png'
+        img: '/image/card-img.png',
+        description: 'Описание второго товара'
     },
     {
         id: 2,
@@ -21,7 +30,8 @@ export const cardArray = [
         price: '172 ₽',
         location: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/image/card-img.png'
+        img: '/image/card-img.png',
+        description: 'Описание третьего товара'
     },
     {
         id: 3,
@@ -29,7 +39,8 @@ export const cardArray = [
         price: '173 ₽',
         location: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/image/card-img.png'
+        img: '/image/card-img.png',
+        description: 'Описание четвертого товара'
     },
     {
         id: 4,
@@ -37,7 +48,8 @@ export const cardArray = [
         price: '174 ₽',
         location: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/image/card-img.png'
+        img: '/image/card-img.png',
+        description: 'Описание пятого товара'
     },
     {
         id: 5,
@@ -45,7 +57,8 @@ export const cardArray = [
         price: '175 ₽',
         location: 'Казань, р-н Вахитовский',
         date: '10 июля 11:39',
-        img: '/image/card-img.png'
+        img: '/image/card-img.png',
+        description: 'Описание шестого товара'
     }
 ];
 
